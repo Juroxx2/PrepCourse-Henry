@@ -1,2 +1,1 @@
-# PrepCourse-Henry
-Este es u reporsiotrio de prueba del PrepCorse de Henry
+Este es una prueba de como crear un reporsitorio y clonarlo a nuestro entorno local
